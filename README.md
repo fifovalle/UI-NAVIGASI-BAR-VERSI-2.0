@@ -20,7 +20,7 @@ Jelajahi karya terbaru dan keterampilan saya dalam dunia pengembangan perangkat 
 
 Berikut adalah beberapa tampilan halaman website :
 
-![Screenshot 2024-01-26 082352](https://github.com/fifovalle/UI-NAVIGASI-BAR/assets/90078068/88955af0-70c0-4afd-8b8d-15ee96ff8365)
+![Screenshot 2024-01-26 083935](https://github.com/fifovalle/UI-NAVIGASI-BAR/assets/90078068/6cbc4f1b-92f0-4f0a-86ad-4d2f4b57a1f6)
 
 ## 📬 Kontak
 
